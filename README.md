@@ -2,7 +2,7 @@
 
 ### **Assignment Submission Report**
 
-**Submitted by:** *Gaurav Ghosh, CSE, NIT Silchar*
+**Submitted by:** *Anurup Mishra, CSE, NIT Silchar*
 **Live Website:** [https://hackathon-frontend1-iy6j.onrender.com](https://hackathon-frontend1-iy6j.onrender.com)
 **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
 
